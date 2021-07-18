@@ -18,7 +18,8 @@ Blog at [hashnode](https://gayathri.hashnode.dev/)
 📘 Latest Blog Article
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Mobx #1 Understanding Basics of Mobx](https://gayathri.hashnode.dev/mobx-1-understanding-basics-of-mobx)
+- [Light/Dark Mode toggle in React JS using Context API](https://gayathri.hashnode.dev/light-dark-mode-toggle-in-react-js-using-context-api)
 <!-- BLOG-POST-LIST:END -->
 
 
