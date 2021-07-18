@@ -5,8 +5,14 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/gayathrithedev?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/gayathrithedev/react-native-chip-input?style=social) ![GitHub followers](https://img.shields.io/github/followers/gayathrithedev?style=social)
 
 A software engineer specialized in JavaScript technologies and Firebase.
-Blog at [hashnode](https://gayathri.hashnode.dev/)
 
+- 🔭 I’m currently working on React Native
+- 🌱 I’m currently learning Go Lang
+- 👯 I’m looking to collaborate on cool Open source projects
+- 💬 Ask me about How to crack Tech interviews
+- 📫 How to reach me: via twitter
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: If night is coding then i am moon and bugs will be stars
 ---
 
 🧰 Toolbox
@@ -25,16 +31,27 @@ Blog at [hashnode](https://gayathri.hashnode.dev/)
 
 
 ▹ [for more blog articles](https://gayathri.hashnode.dev/)
+
+---
+
+📈 My Github Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrithedev&theme=radical) 
+
+![Gayathri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayathrithedev&count_private=true&theme=radical)
+
+---
+
+📭 Open Source
+
+<a href="https://github.com/gayathrithedev/react-native-chip-input">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gayathrithedev&repo=react-native-chip-input&theme=radical" />
+</a>
+
+
 <!--
 **gayathrithedev/gayathrithedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
