@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/martinHeinz/master/wave.gif" width="20px" /> I am Gayathri
+
+![Twitter Follow](https://img.shields.io/twitter/follow/gayathrithedev?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/gayathrithedev/react-native-chip-input?style=social) ![GitHub followers](https://img.shields.io/github/followers/gayathrithedev?style=social)
 
 <!--
 **gayathrithedev/gayathrithedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
