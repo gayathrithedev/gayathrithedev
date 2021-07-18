@@ -15,6 +15,16 @@ Blog at [hashnode](https://gayathri.hashnode.dev/)
 
 ---
 
+📘 Latest Blog Article
+
+<!-- Blogs articles start -->
+
+
+<!-- Blogs articles end -->
+
+
+
+▹ [for more blog articles](https://gayathri.hashnode.dev/)
 <!--
 **gayathrithedev/gayathrithedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
