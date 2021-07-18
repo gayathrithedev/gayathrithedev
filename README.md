@@ -12,7 +12,7 @@ A software engineer specialized in JavaScript technologies and Firebase.
 - 💬 Ask me about How to crack Tech interviews
 - 📫 How to reach me: via twitter
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: If night is coding then i am moon and bugs will be stars
+- ⚡ Fun fact: I dont know JS a few years back
 ---
 
 🧰 Toolbox
