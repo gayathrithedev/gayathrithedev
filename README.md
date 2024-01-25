@@ -22,7 +22,7 @@ A software engineer who loves JavaScript conditionally.
 📘 Latest Blog Article
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobx #1 Understanding Basics of Mobx](https://gayathri.hashnode.dev/mobx-1-understanding-basics-of-mobx)
+- [Chat GPT-3.5-turbo Client with React Native]([https://gayathri.hashnode.dev/mobx-1-understanding-basics-of-mobx](https://gayathri.hashnode.dev/chat-gpt-35-turbo-client-with-react-native))
 - [Light/Dark Mode toggle in React JS using Context API](https://gayathri.hashnode.dev/light-dark-mode-toggle-in-react-js-using-context-api)
 <!-- BLOG-POST-LIST:END -->
 
