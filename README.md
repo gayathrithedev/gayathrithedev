@@ -4,15 +4,13 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/gayathrithedev?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/gayathrithedev/react-native-chip-input?style=social) ![GitHub followers](https://img.shields.io/github/followers/gayathrithedev?style=social)
 
-A software engineer specialized in JavaScript technologies and Firebase.
+A software engineer who loves JavaScript conditionally.
 
 - 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning Go Lang
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on cool Open source projects
-- 💬 Ask me about How to crack Tech interviews
-- 📫 How to reach me: via twitter
+- 📫 How to reach me: via Twitter
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I dont know JS a few years back
 ---
 
 🧰 Toolbox
