@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gayathri Perumal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mobile App Developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathrithedev&label=Profile%20views&color=0e75b6&style=flat" alt="gayathrithedev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gayathrithedev" target="blank"><img src="https://img.shields.io/twitter/follow/gayathrithedev?logo=twitter&style=for-the-badge" alt="gayathrithedev" /></a> </p>
 
-- 🔭 I’m currently working on **React Native**
+🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **Pandas**
+🌱 I’m currently learning **Pandas**
 
-- 👯 I’m looking to collaborate on **Data Science**
+👯 I’m looking to collaborate on **Data Science**
 
-- 📝 I regularly write articles on [gayathri.hashnode.dev](gayathri.hashnode.dev)
+📝 I regularly write articles on [gayathri.hashnode.dev](gayathri.hashnode.dev)
 
-- 💬 Ask me about **react & JS**
+💬 Ask me about **react & JS**
 
-- 📫 How to reach me **gayathriperumal100@gmail.com**
+📫 How to reach me **gayathrithedev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
