@@ -1,0 +1,26 @@
+/* header styles */
+.header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+/* navbar styles */
+.nav {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* menu styles */
+.menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+li{
+    padding: 0 15px;
+}
