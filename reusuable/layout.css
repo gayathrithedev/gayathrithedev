@@ -1,0 +1,51 @@
+/* body styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+}
+
+/* header styles */
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* navbar styles */
+.nav {
+    width: 60%; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* menu styles */
+.menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+/* list item styles */
+
+li{
+    padding-left: 15px;
+}
+
+/* link styles */
+a{
+    color: #1e1e1e;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:active {
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+/* main styles */
+.main {
+    width: 60%;
+    margin: 0 auto;
+}
