@@ -1,3 +1,8 @@
+/* body styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+}
+
 /* header styles */
 .header {
     display: flex;
@@ -7,7 +12,7 @@
 
 /* navbar styles */
 .nav {
-    width: 60%;
+    width: 60%; 
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -22,5 +27,16 @@
 }
 
 li{
-    padding: 0 15px;
+    padding-left: 15px;
+}
+
+a{
+    color: #1e1e1e;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:active {
+    font-weight: 500;
+    text-decoration: underline;
 }
